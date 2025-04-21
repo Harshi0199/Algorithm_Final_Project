@@ -1,0 +1,10 @@
+{
+    "model": "Gemini",
+    "total_codes": 30,
+    "average_execution_time_sec": 0.02,
+    "normalized_execution_time": 0.86,
+    "average_max_memory_usage_mb": 11.8,
+    "normalized_max_memory_usage": 0.97,
+    "average_memory_usage_mb_s": 0.14,
+    "normalized_memory_usage": 0.83
+}

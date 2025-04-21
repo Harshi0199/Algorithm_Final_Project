@@ -1,0 +1,10 @@
+{
+    "model": "ChatGPT",
+    "total_codes": 30,
+    "average_execution_time_sec": 0.03,
+    "normalized_execution_time": 1.38,
+    "average_max_memory_usage_mb": 11.91,
+    "normalized_max_memory_usage": 0.98,
+    "average_memory_usage_mb_s": 0.24,
+    "normalized_memory_usage": 1.46
+}
